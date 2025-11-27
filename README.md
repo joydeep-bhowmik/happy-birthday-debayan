@@ -1,7 +1,7 @@
 
 ## Running the Project
 
-[live link](https://happybirthdaygg.page.gd/)
+[live link](https://happybirthdaydebayan.page.gd/)
 
 After cloning the repository:
 
